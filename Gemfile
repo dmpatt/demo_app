@@ -1,5 +1,5 @@
-require 'rubygems'
-require 'mongo'
+#require 'rubygems'
+#require 'mongo'
 source 'http://rubygems.org'
 
 gem 'rails', '3.0.1'
